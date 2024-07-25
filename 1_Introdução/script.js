@@ -1,1 +1,1 @@
-console.log("Hello Word do Script.js!");
+console.log(" Hello Word do Script.js! ");
